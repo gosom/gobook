@@ -1,0 +1,6 @@
+[book]
+authors = []
+language = "en"
+multilingual = false
+src = "src"
+title = "Pragmatic Go REST APIs: From Development Environment to Production"
