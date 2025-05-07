@@ -2,7 +2,7 @@ go 1.23.2
 
 use (
 	./example-gracefulshut
-	./example-helloinfo
 	./example-helloworld
+	./example-middleware
 	./example-muxpatterns
 )

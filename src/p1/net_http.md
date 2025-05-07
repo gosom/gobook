@@ -20,13 +20,3 @@ The [Documentation](https://pkg.go.dev/net/http#hdr-Servers) explains it a clean
 >ListenAndServe starts an HTTP server with a given address and handler. The handler is usually nil, which means to use DefaultServeMux. Handle and HandleFunc add handlers to DefaultServeMux
 
 However there are some terms that the reader may not be familiar with.
-
-## Exercise
-
-> Add a route /info that returns information about Golang's runtime
-
-Solution:
-
-```go
-{{#include ../../goexamples/example-helloinfo/main.go}}
-```

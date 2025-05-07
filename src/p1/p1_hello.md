@@ -1,6 +1,6 @@
 # Hello world
 
-If you don't have Golang installed please do so. 
+If you don't have Golang installed please 
 Follow the instructions [here](https://go.dev/doc/install)
 
 Now let's start our journey by just saying `Hello world`

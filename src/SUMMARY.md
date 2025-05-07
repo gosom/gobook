@@ -11,5 +11,8 @@
 	- [http.Request](p1/http_req.md)
 	- [HTTP Request multiplexer](p1/http_mux.md)
 	- [HTTP Server](p1/http_server.md)
-
-
+- [Middleware](p1/middleware.md)
+- [Testing](p1/testing.md)
+	- [Basic Handler Testing](p1/basic_handler_testing.md)
+	- [Testing the Full Server](p1/testing_the_full_server.md)
+	- [Using testify & httpexpect](p1/testing_testify_httpexpect.md)
